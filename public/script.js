@@ -4,5 +4,3 @@
  *
  * Loaders: babel-loader, css-loader, image-loader
  */
-
-
