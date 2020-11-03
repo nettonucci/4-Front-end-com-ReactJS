@@ -7,7 +7,7 @@ import "./App.css";
 /**
  * Componente
  * Propriedade
- * Estado & Imutabilidad
+ * Estado & Imutabilidade
  */
 
 function App() {
